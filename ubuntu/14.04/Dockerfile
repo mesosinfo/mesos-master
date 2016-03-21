@@ -1,6 +1,6 @@
 # DOCKER-VERSION 1.9.1
 # VERSION        0.1
-# SOURCE         https://github.com/mesosinfo/zookeeper
+# SOURCE         https://github.com/mesosinfo/mesos-master
 
 FROM ubuntu:14.04
 MAINTAINER Yong Zhang<zhangyong.net@qq.com>
