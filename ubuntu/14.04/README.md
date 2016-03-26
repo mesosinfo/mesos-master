@@ -1,7 +1,7 @@
 mesos-master
 
-[![](https://badge.imagelayers.io/mesosinfo/mesos-master:ubuntu-14.04.svg)](https://imagelayers.io/?images=mesosinfo/mesos-master:ubuntu-14.04 'Get your own badge on imagelayers.io')
 
+[![](https://badge.imagelayers.io/mesosinfo/mesos-master:ubuntu-14.04.svg)](https://imagelayers.io/?images=mesosinfo/mesos-master:ubuntu-14.04 'Get your own badge on imagelayers.io')
 ===========================================================
 Multi-node Setup
 
