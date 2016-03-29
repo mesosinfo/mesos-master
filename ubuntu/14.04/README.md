@@ -34,7 +34,7 @@ For this setup, we will need 3 servers with Docker installed on it.
 		-e "MESOS_REGISTRY=in_memory" \
 		-e "MESOS_WORK_DIR=/var/lib/mesos" \
 		-d \
-		mesosinfo/mesos-master
+		mesosinfo/mesos-master:0.28.0-ubuntu-14.04
 
 
     On host #2
@@ -50,7 +50,7 @@ For this setup, we will need 3 servers with Docker installed on it.
 		-e "MESOS_REGISTRY=in_memory" \
 		-e "MESOS_WORK_DIR=/var/lib/mesos" \
 		-d \
-		mesosinfo/mesos-master
+		mesosinfo/mesos-master:0.28.0-ubuntu-14.04
 
     On host #3
 
@@ -65,5 +65,5 @@ For this setup, we will need 3 servers with Docker installed on it.
 		-e "MESOS_REGISTRY=in_memory" \
 		-e "MESOS_WORK_DIR=/var/lib/mesos" \
 		-d \
-		mesosinfo/mesos-master
+		mesosinfo/mesos-master:0.28.0-ubuntu-14.04
 		
