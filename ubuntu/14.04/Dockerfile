@@ -1,4 +1,4 @@
-# DOCKER-VERSION 1.9.1
+# DOCKER-VERSION 1.10.3
 # VERSION        0.1
 # SOURCE         https://github.com/mesosinfo/mesos-master
 
